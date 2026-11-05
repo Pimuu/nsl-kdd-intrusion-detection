@@ -1,0 +1,7 @@
+eval_set,model,tpr_at_fpr_0.01,tpr_at_fpr_0.02,tpr_at_fpr_0.05,tpr_at_fpr_0.10
+KDDTest+,logreg,0.2215,0.343,0.3752,0.7058
+KDDTest+,random_forest,0.4545,0.5104,0.7739,0.8939
+KDDTest+,hist_gb,0.4092,0.4997,0.7993,0.8539
+KDDTest-21,logreg,0.0016,0.0075,0.0982,0.1513
+KDDTest-21,random_forest,0.0,0.2674,0.2931,0.3703
+KDDTest-21,hist_gb,0.0994,0.1362,0.2526,0.3615
