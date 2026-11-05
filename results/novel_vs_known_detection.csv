@@ -1,0 +1,4 @@
+model,known_attack_detection_rate,novel_attack_detection_rate,n_known,n_novel
+logreg,0.7544,0.2571,9083,3750
+random_forest,0.7677,0.2779,9083,3750
+hist_gb,0.7718,0.4395,9083,3750

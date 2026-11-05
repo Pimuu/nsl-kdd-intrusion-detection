@@ -1,0 +1,34 @@
+{
+  "data_source": "nsl-kdd",
+  "n_train": 125973,
+  "n_test_plus": 22544,
+  "n_test_21": 11850,
+  "novel_attack_types": [
+    "apache2",
+    "httptunnel",
+    "mailbomb",
+    "mscan",
+    "named",
+    "processtable",
+    "ps",
+    "saint",
+    "sendmail",
+    "snmpgetattack",
+    "snmpguess",
+    "sqlattack",
+    "udpstorm",
+    "worm",
+    "xlock",
+    "xsnoop",
+    "xterm"
+  ],
+  "random_state": 42,
+  "runtime_seconds": 387.4,
+  "python": "3.13.18",
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}
